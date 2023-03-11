@@ -43,7 +43,7 @@ function likes(names) {
  * **University:** National Technical University Kharkiv Polytechnic Institute
    * Specialty:"Mechanical Engineer"
  * **Courses:**
- * [code.mu the best programming tutoria](https://code.mu/)
- * [Source iT](https://sourceit.com.ua/)
+   * [code.mu the best programming tutoria](https://code.mu/)
+   * [Source iT](https://sourceit.com.ua/)
 ## English
 **A1**(Reading and understanding technical documentation)
