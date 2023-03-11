@@ -1,4 +1,4 @@
-# [rsschool-cv-test](https://Dmitriy0212.github.io/rsschool-cv-test/cv)
+# [rsschool-cv-test](https://Dmitriy0212.github.io/rsschool-cv-test1/cv)
 ---
 # Dmitry Marenich
 ---
