@@ -8,7 +8,6 @@
 - **Phone:** +380 67 884-92-78
 - **Email:** marenichd1990@gmail.com
 - **GitHub:** [Dmitriy0212](https://github.com/Dmitriy0212)
-
 ## About Me
 ---
 I am respectful, responsible and scrupulous in fulfilling my duties. I am punctual, I have organizational skills, adapt quickly to the working environment and I constantly work on improving my skills. I feel confident working with the team and easily get along with people.
@@ -44,14 +43,13 @@ function likes(names) {
   }
 }
 ```
----
 ## Experience
 ---
 ## Education
 ---
-* **University:** National Technical University Kharkiv Polytechnic Institute
+- **University:** National Technical University Kharkiv Polytechnic Institute
   * Specialty:"Mechanical Engineer"
-* **Courses:**
+- **Courses:**
   * [code.mu the best programming tutoria](https://code.mu/)
   * [Source iT](https://sourceit.com.ua/)
 ## English
